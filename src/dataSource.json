@@ -1,0 +1,38 @@
+[{
+    "title": "Workout of the day",
+    "details": {
+        "instructor": {
+            "name": "Tom A",
+            "job": "Coach"
+        },
+        "startTime": "16:15",
+        "notes": {
+            "title": "You Should know...",
+            "text": "Ploni & Yalan that participates in the class have a dept"
+        },
+        "participants": [
+            {
+                "name": "Yalan Dalan",
+                "checked": true
+            },
+            {
+                "name": "Ploni Almoni",
+                "checked": false
+            },
+            {
+                "name": "Kalal lallal",
+                "checked": false
+            }
+        ],
+        "potential": [
+            "Oliver Hansen",
+            "Van Henry",
+            "April Tucker",
+            "Ralph Hubbard",
+            "Omar Alexander",
+            "Carlos Abbott",
+            "Miriam Wagner",
+            "Bradley Wilkerson"
+        ]
+    }
+}]
